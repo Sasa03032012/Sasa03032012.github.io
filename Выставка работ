@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+    <head>
+        <body bgcolor="#00A08A" text="#000000"></body>
+        <meta charset="utf-8">
+        <title>Cписок преподоватилей:</title>
+    </head>
+    <body>
+        <img src="">
+        <ul>
+            <li>
+                <a href="index.html">Организация</a>
+            </li>
+            <li>
+                <a href="css.html">Список преподоватилей.</a>
+            </li>
+            <li>
+                Выставка работ
+            </li>
+            <li>
+                <a href="mem4ik.html">Отзывы</a>
+            </li>
+        </ul>
+            <h1>ДХШ №2</hl>
+            <h2>Выставка работ</h2>
+            <h3>
+                Приглашаем вас на выставку работ зимнего пейзажа учеников
+                "МАОДУ ДХШ №2".
+            </h3>
+            <img src="https://klike.net/uploads/posts/2023-01/1673850885_3-39.jpg">
+            <p>
+                Елена Горбачова 5 класс / Учитель Иоч Анна Олеговна
+            </p>
+            <h3>
+
+            </h3>
+
+    </body>
+</html>
